@@ -1,4 +1,4 @@
-# Machine Learning Trading Bot - Optional
+# Machine Learning Trading Bot
 
 ![Decorative image.](Images/15-challenge-image.png)
 
